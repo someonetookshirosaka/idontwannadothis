@@ -1,1 +1,0 @@
-print("team b is hungry fam")
